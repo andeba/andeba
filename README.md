@@ -4,8 +4,6 @@
     <h2 align="center">Anders B. A.</h2>
     <p align="center">26 y/o dude from Norway</p>
 </p>
-
----
 &nbsp;
 
 A little bit about me:
